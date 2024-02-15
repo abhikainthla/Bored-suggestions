@@ -6,6 +6,7 @@ Welcome to the Activity Suggestions Website! This website aims to provide users 
 * [Features](#features)
 + [Usage](#usage)
 + [Hosted Link](#hosted-link)
++ [Website Preview](#website-preview)
 
 ## Introduction
 Are you feeling bored and in need of some inspiration for what to do next? Look no further! Our website connects you with a diverse range of activities suitable for individuals, couples, families, and friends. From outdoor adventures to creative indoor projects, there's something for everyone.
@@ -21,3 +22,6 @@ Are you feeling bored and in need of some inspiration for what to do next? Look 
 
 ## Hosted Link
 - [Link](https://activity-suggestion.netlify.app/)
+
+## Website Preview
+![Image](https://github.com/abhikainthla/Bored-suggestions/assets/105478999/d4904a9e-64ce-428b-a75d-7fae22d9dafe)
