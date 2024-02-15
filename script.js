@@ -1,11 +1,10 @@
 const btn = document.getElementById("btn");
 const container = document.getElementById("container");
 btn.addEventListener('click', function() {
-    const url = "http://www.boredapi.com/api/activity/";
+    const url = "https://www.boredapi.com/api/activity/";
     fetch(url)
     .then((response) => response.json())
     .then((data) => {  
-        console.log(data);
         container.innerHTML = "";
         const card = document.createElement("div");
         card.setAttribute("class", "card");
@@ -29,11 +28,10 @@ const ideas = document.querySelectorAll("#idea");
 ideas.forEach(idea => {
     idea.addEventListener("click", function(){
         const btnText = idea.innerText.toLowerCase();
-        const url = "http://www.boredapi.com/api/activity?type="+btnText;
+        const url = "https://www.boredapi.com/api/activity?type="+btnText;
         fetch(url)
         .then(response => response.json())
         .then(data => {
-           console.log(data);
            const container = document.getElementById("container"); // Assuming there's a container element
            container.innerHTML = "";
            const card = document.createElement("div");
