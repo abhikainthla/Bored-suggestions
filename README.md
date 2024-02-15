@@ -5,8 +5,8 @@ Welcome to the Activity Suggestions Website! This website aims to provide users 
 - [Introduction](#introduction)
 * [Features](#features)
 + [Usage](#usage)
-+ [Hosted Link](#hosted-link)
-+ [Website Preview](#website-preview)
+- [Hosted Link](#hosted-link)
+* [Website Preview](#website-preview)
 
 ## Introduction
 Are you feeling bored and in need of some inspiration for what to do next? Look no further! Our website connects you with a diverse range of activities suitable for individuals, couples, families, and friends. From outdoor adventures to creative indoor projects, there's something for everyone.
@@ -14,6 +14,7 @@ Are you feeling bored and in need of some inspiration for what to do next? Look 
 ## Features
 - **Activity Suggestions:** Browse through a variety of activity suggestions, each categorized by type.
 - **Random Activity Generator:** Can't decide? Let our random activity generator surprise you with a fun suggestion!
+- **Relative Links:** Wanna research the topic? Don't worry there is relative activity link too.
 - **User-Friendly Interface:** The website features a simple and intuitive interface for easy navigation.
 
 ## Usage
