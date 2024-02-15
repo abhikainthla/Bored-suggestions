@@ -21,7 +21,8 @@ h1 {
 
   .ideas{
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
     padding: 12px;
     gap: 5px;
@@ -142,4 +143,28 @@ h1 {
 #btn:active {
   box-shadow: #D6D6E7 0 3px 7px inset;
   transform: translateY(2px);
+}
+
+@media only screen and (max-width : 480px){
+  #btn{
+    font-size: 14px;
+  }
+  .ideas{
+    font-size: 12px;
+    padding: 10px;
+  }
+  .main{
+    height: auto;
+  }
+}
+
+@media screen and (max-width : 325px) {
+  #idea {
+    min-width: 80px;
+    font-size: 12px;
+    height: 24px;
+  }
+  #container{
+    width: auto;
+  }
 }
