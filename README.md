@@ -16,6 +16,7 @@ Are you feeling bored and in need of some inspiration for what to do next? Look 
 - **Random Activity Generator:** Can't decide? Let our random activity generator surprise you with a fun suggestion!
 - **Relative Links:** Wanna research the topic? Don't worry there is relative activity link too.
 - **User-Friendly Interface:** The website features a simple and intuitive interface for easy navigation.
+- **Responsive Design:** Access the website from any device – desktop, tablet, or mobile phone – and enjoy a seamless browsing experience.
 
 ## Usage
 - **Browse Activities:** Explore the list of activity categories and click on one that interests you.
